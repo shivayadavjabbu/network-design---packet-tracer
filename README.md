@@ -1,1 +1,2 @@
 # network-design---packet-tracer
+This project aims to design, build, and test a Small-medium business network (SME).The SME hosts three departments, Engineering, Sales, and Management. The Engineering group will initially have 300 computers; these are divided into 260 staff computers.The remaining 40 are production servers.The sales group consists of a back-office of around 10 people.The management consists of a small team of five people.
